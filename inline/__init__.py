@@ -38,7 +38,7 @@ def inlinequery(update, context):
     query = update.inline_query.query
     inline = [
         [
-            InlineKeyboardButton("My Account", url="https://telegram.dog/Keralasbots"),
+            InlineKeyboardButton("My Account", url="https://t.me/A_god"),
             InlineKeyboardButton("My insta", url="https://instagram.com/56.9w")
         ]
     ]
